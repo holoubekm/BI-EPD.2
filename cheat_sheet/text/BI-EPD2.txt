@@ -1,0 +1,544 @@
+Přednáška 1.
+výrobní faktory:
+	• práce – cílevědomá lidská činnost vytvářející statky (lidské zdroje)
+	• přírodní zdroje (půda) – zdroje jsou omezené (vzácné) a mají svoji cenu
+	• kapitál – vše, co vkládáme do výroby, aby vznikly větší hodnoty
+sféry činnost:
+	• primární - zemědělství a těžba
+	• sekundární - zpracovatelský průmysl
+	• terciární - služby
+potřeby
+	• hmotné
+	• nehmotné
+subjektní členění
+	• zbytné
+	• nezbytné
+služby:
+	• věcné
+	• osobní
+předmět ekonomie
+	• ekonomie - ekonomická teorie
+	• ekonomika - ekonomická praxe
+obecná ekonomie
+	• mikroekonomie - dílčí trhy
+	• makroekonomie - celá národní ekonomika
+ekonomický systém
+	• zvykový
+	• příkazový
+	• tržní
+	• smíšený - nejběžnější
+politika státu
+	• liberální
+	• intervencionistická
+makroekonomické cíle
+	• vysoká úroveň a dynamika produkce
+	• vysoká zaměstnanost
+	• stabilita cen
+	• vyrovnaná bilance zahraničního obchodu
+HDP
+	• celkový pěněžní tok zboží a služeb v ekonomice
+nástroje státu
+	• monetární politika - nabídka peněž, úroky
+	• fiskální politika - státní rozpočet
+	• důchodová politika - mzdy, regulace cena
+	• vnější obchodní politika - cla, kurzy
+
+
+Přednáška 2.
+fáze hospodářského procesu:
+	• výroba - příroda x statky
+	• rozdělování a přerozdělování - ti co se podíleli x děti, důchodci
+	• směna - tržní prostředí
+	• spotřeba
+výrobní faktory - zdroje:
+	• práce - lidské zdroje
+	• přírodní zdroje - suroviny, prekurzory
+	• kapitál - prostředky, peníze
+	• informace
+mzda:
+	• nominální - číselná
+	• reálná - co si za ní koupím
+kapitál:
+	• finanční - peněžní kapitál
+	• reální - fyzická podoba
+tržní subjekty:
+	• domácnosti
+	• firmy
+	• stát
+spotřeba - uspokojení potřeb:
+	• konečná - jednotlivý lidé
+	• výrobní - prekurzory
+funkce peněz:
+	• směna
+	• míra hodnot
+	• prostředek akumulace
+poptávka:
+	• individuální - jeden kupujcí chce dané zboží
+	• dílčí - všichni lidí poptávají dané zboží
+	• agregátní - poptávka všech lidí ve státě
+změna cen:
+	• substituční zboží - náhrada
+	• komplementární - doplňuje při spotřebě zboží
+elasticita poptávka:
+	• změna poptávky vztažená ke změně ceny
+nabídka:
+	• individuální - jeden výrobce produkuje dané zboží
+	• dílčí - všichni výrobci produkují dané zboží
+	• agregátní - součet všech prodejů na trhu
+tržní cena:
+	• závislá na nabídce i poptávce
+dokonalá konkurence:
+	• velký počet firem
+	• spíše teoretický model
+nedokonalá konkurence:
+	• monopol - jediný dodavatel
+	• oligopol - malý okruh prodávajících - diferencovaný produkt
+	• monopolistická konkurence - prvky konkurence i dokonalé konkurence
+
+
+Přednáška 3.
+životní cyklus podniku:
+	• založení - záměr, předpoklady, právní stránka
+	• růst - rozvoj podnikání, velké investice
+	• stabilizace - rovnost investic a odpisů, generování zisku
+	• krize - sanační opatření
+	• zánik - neúpěšná sanace
+sanace - stanovení příčiny:
+	• krátkodobý program
+	• střednědobý program
+	• dlouhodobý program
+zrušení společnosti - likvidace:
+	• likvidace - likvidátor - mimosoudní vyrovnání stačí k uhrazení závazků
+	• konkurz - správce konkurzní podstaty - suma nestačí na pokrytí
+	• nucené vyrovnání - částečné vypořádání
+sdružení podniků:
+	• trust - ovládnutí trhu - zakázán
+	• kartel - ovlivnění cen a trhu - zakázán
+	• koncern - spojení více podniků - WV
+	• holding - mateřská společnost drží podíl a ovládá dceřinné
+	• konsorcium - dočasné spojení samostatných podniků
+formy koncentrace:
+	• akvizice - A + B -> (A + B)
+	• fúze sloučením - A + B -> A
+	• fúze splynutím - (A + B) -> C
+základní kapitál:
+	• souhr peněžních i nepeněžních vkladů
+podíl společníka:
+	• účast na společnosti
+rezervní fond:
+	• krytí ztrát společnosti
+primární funkce podniku:
+	• zásobování
+	• výroba
+	• prodej
+řízení zásob:
+	• metoda ABC - rozdělení zásob do skupin A, B, C podle hodnoty
+	• metoda JIT - just in time
+výroba:
+	• kusová
+	• sériová
+	• hromadná
+odvozené funkce podniku:
+	• řízení lidských zdrojů
+	• investiční rozhodování
+	• finanční řízení
+	• řízení inovací
+
+
+Přednáška 4.
+majetek firmy:
+	• aktiva - podle druhů - co vlastně máme
+	• pasiva - podle zdrojů krytí - kde jsme na to vzali
+aktiva:
+	• dlouhodobá - hmotná x nehmotná x dlouhodobé finance
+	• oběžná - zásoby x peněžní prostředky
+oceňování dlouhodobého majetku:
+	• pořizovací cena
+	• reprodukční pořizovací cena - nemáme doklad o koupi
+	• cena ve vlastních nákladech
+odepisování:
+	• postupný přenos vstupní ceny do nákladů
+druhy odpisů:
+	• daňové - zákon o dani z příjmu
+	• účetní
+evidence dlouhodobého majetku:
+	• kontrola
+	• odepisování majetku
+	• úhrada škod
+	• přehled o hodnotě firmy
+pasiva:
+	• vlastní kapitál - základní, fondy, nerozdělený zisk, hospodářský výsledek
+	• cizí kapitál - dlouhodobý, krátkodobý, závazky
+bilanční pravidla:
+	• zlaté bilanční pravidlo - dlouhodobý majetek by měl být financován z dlouhodobých zdrojů
+	• konzervativní financování - využití dlouhodobého kapitálu i k financování krátkodobých aktiv
+	• agresivní financování - využití krátkodobých zdrojů na dlouhodobá aktiva
+	• pravidlo vyrovnání rizika - cizí zdroje lze využívat, pokud nepřevýší naše vlastní
+	• pari pravidlo - vlastního kapitálů by mělo být méně než dlouhodobého majetku
+pracovní kapitál:
+	• oběžná aktiva
+nefinanční pracovní kapitál:
+	• zásoby + pohledávky
+čistý pracovní kapitál:
+	• oběžná aktiva + krátkodobé závazky + dlouhodobý kapitál + dlouhodobý majetek
+
+
+Přednáška 5.
+funkce účetnictví:
+	• informace o aktivech
+	• informace o pasivech
+	• informace pro podnikatele
+	• informace pro řízení
+předmět účetnictví:
+	• sledování stavu, pohybů majetku, závazky
+cíl účetnictví:
+	• informace o situaci podniku
+úkol účetnictví:
+	• rozvaha - stav prostředků
+	• výkaz zisku a ztráty
+účetní knihy:
+	• účetnictví - hlavní kniha, účetní deník, pokladní deník
+	• daňová evidence - peněžní deník, kniha faktur	
+	• formuláře - rozvaha, výsledovka, cash-flow	
+rozvaha:
+	• výkaz o majetkové struktuře
+	• aktiva == pasiva
+vlastní zdroje:
+	• základní kapitál
+	• dary
+	• hospodářský výsledek
+cizí zdroje:
+	• úvěr
+	• dodavatelé
+	• zaměstanci
+	• pojišťovny, úřady
+náklady x výnosy:
+	• náklady - vyjadřují spotřebu
+	• výnosy - vyjadřují výkony, naši výrobu
+výdaje x příjmy:
+	• výdaje - výdej peněž, odchozí platby
+	• příjmy - příjem peněz
+
+
+Přednáška 6.
+přidaná hodnota:
+	• rozdíl mezi vstupem a výstupem
+	• hodnota, kterou jsme přidali k nákupní ceně
+daň z přidané hodnoty:
+	• daň má dopadat na spotřebitele né na podnik
+	• prodejní cena se bere jako 100%
+faktura:
+	• složí pro zanesení do účetnictví
+účetní závěrka:
+	• rozvaha (bilance) - aktiva, pasiva a jejich uspořádání
+	• výkaz zisku x výkaz ztrát
+	• příloha k účetní závěrce - vysvětlení
+	• cash flow - změny ve finančních tocích
+	• přehled o změnách vlastního kapitálu
+rozsah závěrky:
+	• plný rozsah - akciové společnosti
+	• zjednodušený rozsah - ostatní společnosti
+cash flow:
+	• tok peněz - zajímají nás příjmy a výdaje finančních prostředků
+způsoby sestavení cash flow:
+	• přímá metoda - přímé zkoumání příjmů a výdajů
+	• nepřímá metoda - zahrneme pohyby, které nebyly součátní příjmů ani výdajů
+		• pokud je pohyb špatný pro pokladnu - odečítám (-)
+		• pokud je pohyb dobrý pro pokladnu - přičtu (+)
+finanční analýza:
+	• inventura dosavadní činnosti
+zdroje finanční analýzy:
+	• účetní závěrka podniku - rozvaha, výkaz zisku x ztrát, cash-flow
+	• informace - vlastníci, produkt, technologie
+	• doplňující informace - zprávy z trhů, statistické informace
+techniky finanční analýzy:
+	• horizontální analýza - vývoj položek účetních výkazů v čase
+	• vertikální analýza - proporcionalita položek účetních výkazů v čase
+	• rozbor pracovního kapitály
+	• ukazatel EVA - ekonomická přidaná hodnota
+	• srovnání se
+ukazatele:
+	• čistý zisk po zdanění - EAT
+	• zisk před zdaněním - EBT = EAT + daň z příjmu
+	• zisk před zdaněním a úroky - EBIT = EBT + úroky
+	• zisk před zdaněním, úroky a odpisy - EBITDA = EBIT + odpisy
+	• provozní zisk po zdanění - NOPAT = EBIT * (1 - sazba daně)
+hodnotové ukazatele:
+	• EVA - economic value added -EVA = NOPAT - C * WACC
+		  - (provozní zisk po zdaněnní) - (celkový zpoplatněný kapitál) * (vložené náklady)
+srovnání ukazatelů:
+	• se standardy
+	• v času
+	• v prostoru - data mining pyčo
+
+
+Přednáška 7.
+cílem hospodaření:
+	• vytváření stabilního zisku
+základní provozní výnos:
+	• tržby - zákazník odebere množství zboží za jednotkovou cena
+	• zisk - náklady - tržby
+druhové členění nákladů:
+	• provozní náklady - spotřeba energie paliv x mzdy x externí služby
+	• finanční náklady - úroky, daně, poplatky
+	• mimořádné náklady - manka, škody
+členění nákladů podle kalkulačních položek:
+	• přímé náklady - náklady, které lze jednoznačně určit
+	• nepřímé náklady - společné více kalkulačním jednotkách - nelze navzájem odlišit
+náklady z hlediska rozhodování:
+	• relevantní x irelevantví náklady - relevantní odrážejí uskutečnění rozhodnutí - lze je ovlivnit
+	• náklady připisované danému rozhodnutí
+	• ovlivnitelé x neovlivnitelné - v důsledky rozhodnutí x nezávisle na variantě
+	• oportunitní náklady - náklady za ušlé příležitosti
+náklady podle vztahu k produkci:
+	• variabilní - náklady přímo vázané na výrobek, množství produkce
+	• fixní - nezávislé na produkovaném množství
+variabilní náklady:
+	• proporcionální - přímo úměrné - lineární
+	• nadproporcionální - náklady rostou rychleji než produkce - derivace větší než 1
+	• podproporcionální - rostou sublineáně, klesající na jednotku produkce
+předmět kalkulace nákladů:
+	• výkony podniku
+	• kalkulační úsek
+	• kalkulační jednice - odbytové a vnitropodnikové výkony vymezené množstvím
+význam kalkulace:
+	• podklad pro tvorbu nákladové ceny
+	• zajištění rentability
+metody kalkulace:
+	• kalkulace úplných nákladů - na kalkulační jednici se rozpočítají všechny nepřímé náklady - náklady na jednici
+		• kalkulace dělením - kde se vyrábí poze jeden typ výrobku
+		• kalkulace s poměrovými (ekvivalenčními) čísly - jeden výrobek o různých parametrech (kvalita)
+		• kalkulace přirážková - v místě, kde se vyrábí více různých výrobků
+	• kalkulace neúplných nákladů - určení podílu jednotlivých výrobků na celkovém výsledku podniku
+ztrátová výroba:
+	• pro malé objemy - celková produkce je ve ztrátě
+bod zvratu:
+	• nulový zisk - křívka nákladů protíná přímku tržeb
+zisková výroba:
+	• pro větší objemy - celkové náklady nižší než tržby
+neexistence bodu zvratu:
+	• pokud je průměrná cena nižší než průměrné náklady - rovnice nemá reálné řešení
+optimalizační nákladové metody:
+	• outsourcing - vyčleňování činností mimo podnik s cílem úspory nákladů
+	• offshoring - delegování na dceřinné společnosti
+	• insourcing - využití volných kapacit k převzení externích zakázek
+	• franchising - za platbu získá lokální firmy jméno, ideu a komplexní servis (fast food, drogerie)
+
+
+Přednáška 8.
+cíle cenové politiky:
+	• přežití
+	• maximalizace běžného zisku
+	• maximalizace tržeb
+	• maximalizace růstu objemu prodeje x obratu
+	• maximalizace využití trhu 
+model 3C - znalost prostředí:
+	• zákaznická poptávka - customers' demand schedule
+	• nákladová funkce - cost function
+	• konkurenční cena - competitors' price
+tvorba cen:
+	• na základě orientace na náklady
+	• pomocí cílové návratnosti investic - ROI - return of investment
+	• na základě orientace na poptávku
+	• na základě orientace na konkurenci
+konečná úprava ceny:
+	• psychologické faktory - baťovské ceny
+	• geografické hledisko - náklady na dopravu, FOB (free on board) - zákazním platí dle vzdálenosti
+	• cenové srážky a slevy - hotovostní, funkční slevy, množstevní slevy
+	• diskriminační tvorba cen - různé ceny pro různé skupiny zákazníků x případně dle variant zboží, balení
+cenové strategie produktu:
+	• strategie trvale vysoké ceny - trvale vysoká kvalita výrobků
+	• strategie nižší ceny - často zaváděcí cena
+	• stategie průměrné ceny - zárukou je udržení průměrné kvality
+	• strategie nasazení vyšší cenny - v průběhu životnosti výroby - vyšší cena cílí a stálé zákazníky
+	• strategie trvale nízké ceny - produkty běžné spotřeby - produkty beze jména
+produkční funkce:
+	• vztah mezi produkčními faktory a produkcí
+	• stanovení možné úrovně produkce
+produkční křivka:
+	• jednofaktorová - kontinuální
+	• dvoufaktorové - 3D graf
+	• třífaktorová - nemožné zobrazit
+charakteristiky produkční funkce:
+	• celková produkce
+	• průměrná produkce na jednotku
+	• mezní produkce - změna produkce způsobená změnou faktoru
+zdravotní pojišťovny:
+	• rozsah péče dán Zdravotním řádem pojišťovny
+sociální systém zabezpečení v ČR:
+	• sociální pojištění - nemocenské dávky, důchody
+	• sociální podpora - rodičovský příspěvek
+	• sociální pomoc - dávky v hmotné nouzi
+náhrada mzdy:
+	• náhrada mzdy na placenou nepřítomnosti zaměstance
+	• předpis náhrady mzdy jako průměrný příjem
+náhrada při pracovní neschopnosti:
+	• prvních 14 vyplácí zaměstnavatel ze svých prostředků - bys blil duhu
+	• od 15. dne dávky platí ČSSZ - Česká správa sociálního zabezpečení
+základ pro zdravodní a sociální pojištění:
+	• úhrn hrubách mezd a náhrad mzdy
+	• hodnota zaměstnaneckých výhod
+výpočet pojistného:
+	• srážka ze zmdy zaměstatnce - sociální a zdravotní pojistění
+	• povinně odváděné pojistné zaměstnavatele
+daň z příjmu ze závislé činnosti (DPZČ):
+	• superhrubá mzda - hrubá mzda + pojistné zaměstnavatele (34%) + benefity
+	• sazba DPZČ - 15% ze superhrubé mzdy
+
+Přednáška 10.
+daňe:
+	• přímé x nepřímé
+	• nedobrovolné, povinné - vynutitelné zákonem
+	• nenávratné - zaplacenou daň nelze vymáhat zpět
+	• neekvivalentní - neexistuje nárok na adekvátní plnění
+	• neúčelové - nelze ovlivnit na co bude daň využita
+	• placené pravidelně - v určitých intervalech, příležitostech
+funcke daní:
+	• fiskální - schopnost naplnit rozpočet
+	• alokační - koriguje efektivnost tržních mechanismů
+	• redistribuční - přesun důchodů od bohatších k chudším
+	• stabilizační - zmírňování cyklických výkyvů ekonomiky
+subjekt daně:
+	• poplatník - vlastník daněného majetku
+	• plátce - kdo má daň zaplatit
+	• právní nástupce - ručitel - ručí za zaplacení daně za někoho
+objekt daně:
+	• z čeho se daň platí - hodpodářská skutečnosti, jež je předmětem zdanění
+daňový základ:
+	• stanoven konkrétními hospodářskými skutečnostmi
+osvobození od daně:
+	• podmínky pro osvobození
+splatnost daně:
+	• termíny pro platky
+daňové sankce:
+	• sankce za spoždění
+sazba daně:
+	• algoritmus pro výpočet velikosti daňové povinnosti
+typy sazeb daně:
+	• jednotná sazba - stejná pro všechny druhy předmětu daně
+	• diferenciální sazba daně - liší se podle ruhu předmětu daně (DPH pro různé zboží)
+	• relativní sazba daně - poměr k daňovému základu, určeno procentuálně
+	• lineární sazba daně - daň roste proporcionálně s růstem základu
+	• progresivní daňová sazba - s růstem základu roste daň superlineárně
+poplatky:
+	• platby za konkrétní služby poskytované veřejnám sektorem
+clo:
+	• povinná platba spojená s přechoden zboží přes hranice
+sankce:
+	• penále - nesplnění povinnosti peněžité povahy
+	• pokuta - nesplnění povinnosti nepeněžité povahy
+pojistné:
+	• celková odvodová povinnost
+přímé daně.
+	• daň z příjmu fyzických osob
+	• daň z pozemků - různé typy pozemků, podle výměry
+	• daň ze staveb
+	• daň z nebytí nemovitých věcí - platí kupující
+	• silniční daň
+nepřímé daně:
+	• daň z přidané hodnoty
+	• spotřední daně - hlediska - zdravoní, ekologické, fiskální
+sleva na dani:
+	• odečítá se od vypočtené daně maximálně na nulu
+daňové zvýhodnění:
+	• odečítá se od vypočtené daně i do mínusu - daňový bonus
+srážková daň:
+	• zvláštní sazba - zdaňované přímo u zdroje
+daňová kvóta:
+	• ukazatel pro časové srovnání daňového zatížení - míra zatížení
+
+
+Přednáška 11.
+podnikatel
+	• vlastník postředků k podnikání, nositel rizika
+manažer:
+	• řídí firmu za účelem cíle, specifikovaného podnikatelem
+úrovně managementu:
+	• vrcholový - nejvýše postavení pracovníci, částečná zodpovědnost
+	• střední (middle) - taktické cíle, různorodá odvětví
+	• liniová management - řeší vztahy přímo se zaměstanci, nejvíc odborných znalostí
+manažerský odpovědnost:
+	• práce s lidmi
+	• odpovědnost za svou práci
+	• analytický a konceptuální přístup
+	• diplomat
+	• politik
+základní manažerské činnosti:
+	• plánování - systematické stanovování cílů
+	• organizování - uspořádávání prvků
+	• výběr a rozmisťování pracovníků
+	• vedení a motivace lidí
+	• kontrola - proces porovnávání výsledků práce s původními cíly
+hierarchie plánů:
+	• strategické - 3 až 10 let - chování podniku jako celku
+	• taktické - 1 až 3 roky - detailnější
+	• operativní - užší období - detailně rozepsán pro každé pracoviště
+tvorba plánu:
+	• vytyčení cílů
+	• analýza situace
+	• vytvoření seznamu činností
+	• kapacitní bilance
+	• časový harmonogram
+metoda OSCAR:
+	• definuje požadavky, které má proces organizování zajistit
+	• O - objectives - cíle podnikání
+	• S - specialization - dělba práce a seskupování
+	• C - coordination - koordinace činností a lidí
+	• A - authority - pravomoce odpovídajícíh úkolů
+	• R - reponsibility - odpovědnost za plnění
+organizační struktury:
+	• funkční organizační struktura - pracovník má různé nadřízené pro různé oblasti
+	• funkční liniová organizační struktura - jasně přidělení podřízení a naopak
+	• funkční štábně-liniová organizační struktura - útvary pro různé hierarchické úrovně
+	• strategické obchodní jednotky - divize - nutná synchronizace pouze na úrovni globální strategie
+	• hybridní organizační struktura - divizní jednotky ale obsahuje i centralizované vrcholové vedení
+	• maticová organizační struktura - ad hoc týmy v klasické liniové struktuře
+výhody funkční struktury.
+	• efektivní využití zdrojů
+	• rozvoj kvalifikace pracovníků
+	• vedení řídí strategii
+nevýhody funkční struktury:
+	• pomalejší rozhodovací schopnost
+	• menší inovační aktivita
+	• špatná koordinace mezi útvary
+výhody divizní struktury:
+	• schopnost přizpůsobení se
+	• styk se zákazníky je operativní
+slabiny divizní struktury:
+	• neefektivní využití zdrojů
+	• upřednostnění divize před celou firmou
+výhody hybridní struktury:
+	• koordinace mezi divizemi
+	• integrace cílů s úkoly
+	• apadtabilita
+slabiny hybridní struktury:
+	• pomalá reakce na výjimečné situace
+	• konflikty ve vedení
+výhody maticové struktury:
+	• velmi rychlá reakce na požadavky okolí
+	• rychlá změna týmů
+	• rychlý rozvoj kvalifikace a zkušeností
+slabiny maticové struktury:
+	• vztahy dvojí podřízenosti - konflikty mezi vedoucími týmu a kmenu
+	• časově náročnější na rozhodování - časté porady
+	• vyžaduje výcvik v mezilidských vztazích - neustálá spolupráce
+	• vyžaduje větší náklady
+
+
+Přednáška 12.
+personalistika:
+	• jak získávat kvalitní lidi
+	• práce s lidmi
+	• motivace zaměstnanců
+pyramida potenciálů:
+	• neschopní a neochodní - nepodobují své okolí
+	• schopní a neochotní - hrozba pro fungování týmu - špatné vzory
+	• neschopní a ochotní - potřebují vedení
+	• schopní a ochotní - vhodní pro to, stát se vzorem
+chování ovlivňují:
+	• vlastnosti - charakter osobnosti
+	• postoje - názory a motivy
+styly řízení manažera:
+	• demokratický typ - umí delegovat úkoly, motivuje - vzácný
+	• autokratický typ - soustředujě všechny pracomoci ve svých rukou
+	• liberální typ - neovlivňuje chod, nemá řídící autoritu - často odborník
